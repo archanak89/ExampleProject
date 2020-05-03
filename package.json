@@ -1,0 +1,20 @@
+{
+  "name": "exampleproject",
+  "version": "1.0.0",
+  "description": "Example Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archanak89/ExampleProject.git"
+  },
+  "author": "Basta Archana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archanak89/ExampleProject/issues"
+  },
+  "homepage": "https://github.com/archanak89/ExampleProject#readme"
+}
